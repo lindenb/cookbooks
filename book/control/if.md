@@ -4,12 +4,12 @@
 
 Reference : http://www.tcl.tk/man/tcl8.4/TclCmd/if.htm
 
-```tcltk
+```tcl
 if {$vbl == 1} { puts "vbl is one" }
 ```
 
 With an else-clause:
-```tcltk
+```tcl
 if {$vbl == 1} {
    puts "vbl is one"
 } else {
@@ -18,7 +18,7 @@ if {$vbl == 1} {
 ```
 With an elseif-clause too:
 
-```tcltk
+```tcl
 if {$vbl == 1} {
    puts "vbl is one"
 } elseif {$vbl == 2} {
