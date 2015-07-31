@@ -10,6 +10,5 @@ if { [ string length "ABCDC" ] == 0 } {
 } else {
     puts "No tEmpty"
 }
-# returns 5
 ```
 
