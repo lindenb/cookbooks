@@ -1,5 +1,6 @@
-# Control Statements
+# Table of content
 
-* [If](if.md)
+* [Control](control/README.md)
+* [Data Types](datatypes/README.md)
 
 
